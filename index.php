@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -22,33 +20,30 @@
     <link href="vendor/css/resume.min.css" rel="stylesheet">
   </head>
   <body id="page-top">
-    <!-- chuyển đổi ngôn ngữ -->
-    <!-- <div id="google_translate_element" style="float:right;"></div>
-    <script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement({pageLanguage: 'vi', includedLanguages: 'vi,en,ja,ko', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: true}, 'google_translate_element');
-    }
-    </script>
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script> -->
-    <!-- hết phầ chuyển đổi ngôn ngữ -->
-    <div id="" style="float:right;">
-      <select class="form-control form-control-sm" name="id_ngonngu" style="background-color: orange;">
-        <a href="index.html" title="Trang tiếng việt"><option value="Tiếng Việt">Tiếng Việt</option>
+    
+    <!-- <div id="" style="float:right;">
+      <select class="form-control form-control-sm" name="id_ngonngu" style="background-color: pink;">
+        <a href="../index.html" title="Trang tiếng việt"><option value="Tiếng Việt">Tiếng Việt</option>
         </a>
         <a href="english/index_en.html" title="English page" target="_blank"><option value="English">English</option>
         </a>
       </select>
+    </div> -->
+    <div>
+      <a  class="btn btn-success pull-right" href="index.php">Tiếng Việt</a>
+      <a  class="btn btn-warning pull-right" href="english/index_en.html">English</a>
     </div>
   
 <!-- phần menu của hệ thống -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Menu</span>
+        <a href="index.php" title="">
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/thayhai.jpg" alt="">
           <h3 class="text-light">PGS.TS<br>Phạm Văn Hải</h3>
         </span>
+        </a>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -56,25 +51,25 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/index.html" style="color:orange;">Về Tôi</a>
+            <a class="nav-link js-scroll-trigger" href="index.php" style="color:orange;"><u>Về Tôi</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/research/index.html" target="_blank" style="color:orange;">Nghiên Cứu</a>
+            <a class="nav-link js-scroll-trigger" href="research/index.html" target="_blank" style="color:orange;"><u>Nghiên Cứu</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/students/index.html" target="_blank" style="color:orange;">Sinh Viên</a>
+            <a class="nav-link js-scroll-trigger" href="students/index.html" target="_blank" style="color:orange;"><u>Sinh Viên</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/publications/index.html" target="_blank" style="color:orange;">Ấn Phẩm</a>
+            <a class="nav-link js-scroll-trigger" href="publications/index.html" target="_blank" style="color:orange;"><u>Ấn Phẩm</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/courses/index.html" target="_blank" style="color:orange;">Khóa Học</a>
+            <a class="nav-link js-scroll-trigger" href="courses/index.html" target="_blank" style="color:orange;"><u>Khóa Học</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/links/index.html" target="_blank" style="color:orange;">Liên Kết</a>
+            <a class="nav-link js-scroll-trigger" href="links/index.html" target="_blank" style="color:orange;"><u>Liên Kết</u></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/Tai_lieu/20172" target="_blank" style="color:orange;">Tài Liệu</a>
+            <a class="nav-link js-scroll-trigger" href="Tai_lieu/20172" target="_blank" style="color:orange;"><u>Tài Liệu</u></a>
           </li>
         </ul>
       </div>
