@@ -11,8 +11,8 @@
     <!-- Custom fonts for this template -->
     <link href="vendor/css/font.css" rel="stylesheet">
     <link href="vendor/css/font1.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet"> -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
@@ -50,26 +50,26 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="index.php" style="color:orange;"><u>Về Tôi</u></a>
+         <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="../website/index.html" style="color:white;">About me</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="research/index.html" target="_blank" style="color:orange;"><u>Nghiên Cứu</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/research/index.html" target="_blank" style="color:white;">Research</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="students/index.html" target="_blank" style="color:orange;"><u>Sinh Viên</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/students/index.html" target="_blank" style="color:white;">Students</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="publications/index.html" target="_blank" style="color:orange;"><u>Ấn Phẩm</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/publications/index.html" target="_blank" style="color:white;">Publications</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="courses/index.html" target="_blank" style="color:orange;"><u>Khóa Học</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/courses/index.html" target="_blank" style="color:white;">Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="links/index.html" target="_blank" style="color:orange;"><u>Liên Kết</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/links/index.html" target="_blank" style="color:white;">Links</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="Tai_lieu/20172" target="_blank" style="color:orange;"><u>Tài Liệu</u></a>
+            <a class="nav-link js-scroll-trigger" href="../website/Tai_lieu/20172" target="_blank" style="color:white;">Documents</a>
           </li>
         </ul>
       </div>
