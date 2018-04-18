@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Phạm Văn Hải</title>
+    <title>PGS.TS Phạm Văn Hải</title>
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom fonts for this template -->
     <link href="vendor/css/font.css" rel="stylesheet">
     <link href="vendor/css/font1.css" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet"> -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
@@ -20,18 +18,10 @@
     <link href="vendor/css/resume.min.css" rel="stylesheet">
   </head>
   <body id="page-top">
-    
-    <!-- <div id="" style="float:right;">
-      <select class="form-control form-control-sm" name="id_ngonngu" style="background-color: pink;">
-        <a href="../index.html" title="Trang tiếng việt"><option value="Tiếng Việt">Tiếng Việt</option>
-        </a>
-        <a href="english/index_en.html" title="English page" target="_blank"><option value="English">English</option>
-        </a>
-      </select>
-    </div> -->
-    <div>
-      <a  class="btn btn-success pull-right" href="index.php">Tiếng Việt</a>
-      <a  class="btn btn-warning pull-right" href="english/index_en.html">English</a>
+    <div class="row" style="float: right;padding-right: 2%;padding-top: 1%;">
+      <a  href="index.php" target="_blank"><img src="img/vn.jpg" alt="Kết nối kém" width="35px" height="25px"></a>
+      &nbsp;
+      <a  href="english/index_en.html" target="_blank"><img src="img/en.png" alt="Kết nối kém" width="35px" height="25px"></a>
     </div>
   
 <!-- phần menu của hệ thống -->
@@ -51,25 +41,25 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/index.html" style="color:white;">About me</a>
+            <a class="nav-link js-scroll-trigger" href="index.html" style="color:white;">About me</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/research/index.html" target="_blank" style="color:white;">Research</a>
+            <a class="nav-link js-scroll-trigger" href="index_research.html" target="_blank" style="color:white;">Research</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/students/index.html" target="_blank" style="color:white;">Students</a>
+            <a class="nav-link js-scroll-trigger" href="index_student.html" target="_blank" style="color:white;">Students</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/publications/index.html" target="_blank" style="color:white;">Publications</a>
+            <a class="nav-link js-scroll-trigger" href="index_publication.html" target="_blank" style="color:white;">Publications</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/courses/index.html" target="_blank" style="color:white;">Courses</a>
+            <a class="nav-link js-scroll-trigger" href="index_course.html" target="_blank" style="color:white;">Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/links/index.html" target="_blank" style="color:white;">Links</a>
+            <a class="nav-link js-scroll-trigger" href="index_link.html" target="_blank" style="color:white;">Links</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="../website/Tai_lieu/20172" target="_blank" style="color:white;">Documents</a>
+            <a class="nav-link js-scroll-trigger" href="Tai_lieu/" target="_blank" style="color:white;">Documents</a>
           </li>
         </ul>
       </div>
@@ -81,6 +71,7 @@
           <h3 class="mb-0" style="text-align: center;">
             <span class="text-primary">thông tin cá nhân</span>
           </h3>
+          <br><br>
           <div class="subheading mb-5 text-dark">
             <p><b>Họ và Tên:</b>&nbsp;&nbsp;Phạm Văn Hải</p>
             <p><b>Công Việc:</b>&nbsp;&nbsp;Khoa Học Máy Tính và Hệ Thống Thông Tin</p>
@@ -100,7 +91,7 @@
              <div class="text-dark text-justify">
               <br><br>
                 <p>Nhận hướng dẫn đồ án tốt nghiệp 2017, Project 1, 2, 3 cho các chương trình KS, CN chính quy, ICT, Việt - Nhật, CLC và KSTN.  Khuyến khích sinh viên đề xuất ý tưởng cùng trao đồi với giảng viên hướng dẫn. Chủ đề năm năy - 2017 hướng tới các chủ đề mới:   Tiếp cận các hệ thống phần mềm ứng dụng công nghệ mới Web-based, Smart phone theo qui trình phân tích thiết kế phần mềm / hệ thống thông tin cho tất cả lĩnh vực: giáo dục, y tế, tài chính, kinh tế, công nghiệp, nông nghiệp ,..vvv Các chủ đề mới như phân tích dữ liệu lớn, Big data, data mining,  ứng dụng Internet of things, ... Sinh viên theo khả năng của mình được tư vấn lựa chọn phù hợp với năng lực hiện có. Các em liên hệ với giảng viên qua email:  haipv (AT) soict.hust.edu.vn  đê hẹn gặp hay thảo luận.  Số lượng nhận đồ án hạn chế theo qui định của viện cho nên các em cần liên hệ sớm đê thảo luận.</p>
-                <p>Sinh viên, học viên có thể tự lựa chọn theo nguyện vọng hoặc theo hướng nghiên cứu <a href="../website/research/index.html" target="_blank">xem chi tiết</a></p>
+                <p>Sinh viên, học viên có thể tự lựa chọn theo nguyện vọng hoặc theo hướng nghiên cứu <a href="index_research.html" target="_blank">xem chi tiết</a></p>
             </div>
           </div>
         </div>
@@ -132,12 +123,12 @@
             <br><br>
             <div class="text-dark text-justify">
               <p>
-                <a href="research/index2.html" target="_blank">Hướng tiếp cận công nghệ</a>:  Sinh viên, học viên sau đại học sau nghiên cứu sẽ thích nghi với công nghệ mới nhất hiện nay. Các em sẵn sàng tham gia các tập đoàn doanh nghiệp lớn SAMSUNG, APPLE, VIETTEL, FPT,BKAV, .và các doanh nghiệp Nhật Bản vvvv</p>
+                <a href="index_research2.html" target="_blank">Hướng tiếp cận công nghệ</a>:  Sinh viên, học viên sau đại học sau nghiên cứu sẽ thích nghi với công nghệ mới nhất hiện nay. Các em sẵn sàng tham gia các tập đoàn doanh nghiệp lớn SAMSUNG, APPLE, VIETTEL, FPT,BKAV, .và các doanh nghiệp Nhật Bản vvvv</p>
                 <p>
                 Hướng tiếp cận khoa học: Sinh viên, học viên sau đại học sau nghiên cứu có thể viết bài báo khoa học với các thầy/ cô và nhà khoa học trong nước quốc tế. Theo định hướng này, sinh viên- học viên xin các nguồn học bổng quốc tế đi học thạc sĩ hoặc tiến sĩ ở nước ngoài. </p>
               <!-- </span> -->
               <!-- <span> -->
-                <p><a href="students/startup.html" target="_blank"> Hướng tiếp cận khởi nghiệp</a>: Sinh viên, học viên sau đại học lập nghiệp khởi nghiệp ngay từ khi còn trên ghế nhà trường; Định hướng nghiên cứu kết nối với các doanh nghiệp, nhà đầu tư thiên thần ..vvv</p>
+                <p><a href="startup_student.html" target="_blank"> Hướng tiếp cận khởi nghiệp</a>: Sinh viên, học viên sau đại học lập nghiệp khởi nghiệp ngay từ khi còn trên ghế nhà trường; Định hướng nghiên cứu kết nối với các doanh nghiệp, nhà đầu tư thiên thần ..vvv</p>
                 <p>Hướng tiếp cận kỹ năng-năng lực bản thân:  Sinh viên, học viên sau đại học theo phương pháp nghiên cứu kết hợp chính sách - nghiên cứu - kỹ năng mềm của bản thân để khi ra trường thích nghi với các tổ chức, cơ quan khối nhà nước.</p>
                 <p>Hàng năm có nhiều học bổng nghiên cứu, học bổng qua tiến cử qua các LAB, các trường Đại học nước ngoài như các trường danh tiếng SMU, NSU- Singapore, Tokyo, Ritsumeikan- Nhật Bản, KAIST, Seou - Hàn Quốc và Học bổng nghiên cứu SĐH - Hoa Kỳ. Ứng viên có điểm GPA>=7 và có các công trình tạp chí/ hội thảo khoa học quốc tế / trong nước sẽ được giới thiệu các nguồn học bổng hàng năm. Sinh viên muốn viết bài nghiên cứu - bài báo tạp chí quốc tế với tôi cùng các Giáo sư, nhà khoa học trong và ngoài nước, có thể tham gia chương trình Project, thực tập và đồ án tốt nghiệp các hệ kỹ sư, cử nhân, sau đại học bằng cách liên hệ trực tiếp với tôi qua email: haipv(AT)soict(dot)edu(dot)vn</p>
                 <p>Đối với sinh viên, học viên có nguyện vọng làm việc tại các công ty nước ngoài, tập đoàn FPT, Viettel, BKAV, Doanh nghiệp Nhật Bản, doanh nghiệp nước ngoài..vv, sinh viên/ học viên có  các bạn liên hệ với tôi để làm đồ án tốt nghiệp, nghiên cứu Project; Trong quá trình hướng dẫn, các kỹ năng mềm bổ trợ, làm việc nhóm hoặc thực tập tại doanh nghiệp để giúp cho sinh viên có khả năng tương tác công việc dự án thực tiễn. Các sinh viên đạt yêu cầu trên sẽ được giới thiệu đến các tập đoàn, doanh nghiệp uy tín theo nguyện vọng. Các em hãy trở lên tự tin học tập, nghiên cứu, con đường rộng mở phía trước.
